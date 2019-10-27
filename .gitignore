@@ -1,4 +1,5 @@
 makefile
 .vscode/*
 *.dSYM
+*.o
 tempCodeRunnerFile.cpp
